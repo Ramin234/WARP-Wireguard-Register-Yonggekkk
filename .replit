@@ -1,0 +1,6 @@
+run = "bash wgreplit.sh"
+
+entrypoint = "wgreplit.sh"
+
+[nix]
+channel = "stable-22_11"
